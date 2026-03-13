@@ -146,17 +146,17 @@ const kanishk = {
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkjain0510&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=00d4ff&text_color=a0cfff&ring_color=00d4ff" width="400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=knyshk&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=00d4ff&text_color=a0cfff&ring_color=00d4ff" width="400" alt="GitHub Stats" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkjain0510&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=020024&title_color=00d4ff&text_color=a0cfff" width="280" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knyshk&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=020024&title_color=00d4ff&text_color=a0cfff" width="280" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=kanishkjain0510&theme=transparent&hide_border=true&background=020024&stroke=00d4ff&ring=00d4ff&fire=FF6B6B&currStreakNum=ffffff&sideNums=a0cfff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=6080a0" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=knyshk&theme=transparent&hide_border=true&background=020024&stroke=00d4ff&ring=00d4ff&fire=FF6B6B&currStreakNum=ffffff&sideNums=a0cfff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=6080a0" alt="GitHub Streak" />
 
 </div>
 
