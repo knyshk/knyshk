@@ -130,7 +130,7 @@ const kanishk = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kanishkjain0510&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=knyshk&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="trophies" />
 
 </div>
 
