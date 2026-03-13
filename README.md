@@ -402,26 +402,22 @@ kanishk.run();  //  → open to research · internships · collab
 <!--  Activate: push snake.yml to .github/workflows/           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  CONTRIBUTION HEATMAP                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<h2>🐍 &nbsp; Watch My Commits Get Eaten</h2>
+<h2>🗓 &nbsp; Contribution Heatmap</h2>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/knyshk/knyshk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/knyshk/knyshk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution-snake"
-    src="https://raw.githubusercontent.com/knyshk/knyshk/output/github-contribution-grid-snake-dark.svg"
-    width="97%" />
-</picture>
+<img src="https://ghchart.rshah.org/FF9500/knyshk" width="97%" alt="Contribution Heatmap" />
 
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050100,100:FF9500&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9500,100:050100&height=2" />
 
 ---
 
