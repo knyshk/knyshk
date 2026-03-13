@@ -8,7 +8,7 @@
 <!--  HERO HEADER  — waving type, amber/gold theme             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050100,30:1C0900,70:C45F00,100:FF9500&height=260&section=header&text=Kanishk%20Jain&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CS+%26+AI+%7C+MERN+Stack+%7C+ML+Engineer+%7C+IIT+Jammu+Alumnus&descSize=15&descAlignY=67&descColor=FFD580" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C0900,100:FF9500&height=260&section=header&text=Kanishk%20Jain&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CS%20%26%20AI%20%7C%20MERN%20Stack%20%7C%20ML%20Engineer%20%7C%20IIT%20Jammu%20Alumnus&descSize=15&descAlignY=67&descColor=FFD580" />
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  TYPING SVG + BADGES                                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -329,13 +329,12 @@ kanishk.run();  //  → open to research · internships · collab
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=knyshk&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=knyshk&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9500,100:050100&height=2" />
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
