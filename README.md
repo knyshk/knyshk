@@ -61,11 +61,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishkjain0510&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knyshk&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkjain0510&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knyshk0510&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub's native contribution graph will now appear below your README as usual -->
