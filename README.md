@@ -306,17 +306,26 @@ kanishk.run();  //  → open to research · internships · collab
 
 <div align="center">
 
-<h2>🏆 &nbsp; GitHub Trophies</h2>
+<h2>🏆 &nbsp; GitHub At a Glance</h2>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=knyshk&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://img.shields.io/badge/Repos-Public-FF9500?style=for-the-badge&labelColor=0D0600&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Scholarship-100%25_Merit_Yr1-FFD700?style=for-the-badge&labelColor=0D0600&logo=academia&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Exchange-IIT_Jammu-FF9500?style=for-the-badge&labelColor=0D0600&logo=google-scholar&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Internship-WebClan.in-FFD700?style=for-the-badge&labelColor=0D0600&logo=briefcase&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CodeChef-1239_(1★)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI_Bootcamp-IIT_Ropar-FF9500?style=for-the-badge&labelColor=0D0600&logo=tensorflow&logoColor=white" />
 
 </div>
 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9500,100:050100&height=2" />
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  GITHUB STATS                                              -->
