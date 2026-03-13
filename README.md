@@ -8,8 +8,7 @@
 <!--  HERO HEADER  — waving type, amber/gold theme             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050100,30:1C0900,70:C45F00,100:FF9500&height=260&section=header&text=Kanishk%20Jain&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CS%20%26%20AI%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20IIT%20Jammu%20Alumnus&descSize=16&descAlignY=67&descColor=FFD580" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050100,30:1C0900,70:C45F00,100:FF9500&height=260&section=header&text=Kanishk%20Jain&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CS+%26+AI+%7C+MERN+Stack+%7C+ML+Engineer+%7C+IIT+Jammu+Alumnus&descSize=15&descAlignY=67&descColor=FFD580" />
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  TYPING SVG + BADGES                                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
