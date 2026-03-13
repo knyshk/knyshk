@@ -169,7 +169,7 @@ const kanishk = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkjain0510&bg_color=020024&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=090979&hide_border=true&custom_title=Kanishk's%20Contribution%20Graph&title_color=00d4ff" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=knyshk&bg_color=020024&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=090979&hide_border=true&custom_title=Kanishk's%20Contribution%20Graph&title_color=00d4ff" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -183,9 +183,9 @@ const kanishk = {
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishkjain0510/kanishkjain0510/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanishkjain0510/kanishkjain0510/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kanishkjain0510/kanishkjain0510/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knyshk/knyshk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knyshk/knyshk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/knyshk/knyshk/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
@@ -199,15 +199,15 @@ const kanishk = {
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanishkjain0510&theme=2077" width="95%" alt="Profile Summary" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knyshk&theme=2077" width="95%" alt="Profile Summary" />
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanishkjain0510&theme=2077" width="32%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knyshk&theme=2077" width="32%" />
 &nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanishkjain0510&theme=2077" width="32%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knyshk&theme=2077" width="32%" />
 &nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanishkjain0510&theme=2077&utcOffset=5.5" width="32%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=knyshk&theme=2077&utcOffset=5.5" width="32%" />
 
 </div>
 
