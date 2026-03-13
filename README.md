@@ -255,25 +255,6 @@ kanishk.run();  //  → open to research · internships · collab
   </tr>
 </table>
 
-<!-- LIVE PINNED REPO CARDS -->
-<p align="center">
-  <a href="https://github.com/knyshk/newscope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=knyshk&repo=newscope&theme=tokyonight&hide_border=true&bg_color=0D0600&title_color=FF9500&icon_color=FFD700&text_color=FFD580&description_lines_count=2" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/knyshk/Callix-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=knyshk&repo=Callix-AI&theme=tokyonight&hide_border=true&bg_color=0D0600&title_color=FF9500&icon_color=FFD700&text_color=FFD580&description_lines_count=2" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/knyshk/Driver-Drowsiness-Detection-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=knyshk&repo=Driver-Drowsiness-Detection-System&theme=tokyonight&hide_border=true&bg_color=0D0600&title_color=FF9500&icon_color=FFD700&text_color=FFD580&description_lines_count=2" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/knyshk/SVD-Based-Image-Steganography">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=knyshk&repo=SVD-Based-Image-Steganography&theme=tokyonight&hide_border=true&bg_color=0D0600&title_color=FF9500&icon_color=FFD700&text_color=FFD580&description_lines_count=2" />
-  </a>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9500,100:050100&height=2" />
 
