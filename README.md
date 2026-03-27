@@ -27,7 +27,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open_to_Collab-FF9500?style=flat-square&labelColor=0D0600" />
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-AI+%2F+ML+%2B+Full+Stack-FFD700?style=flat-square&labelColor=0D0600" />
+<img src="https://img.shields.io/badge/FOCUS-AI%2FML_Full_Stack-FFD700?style=flat-square&labelColor=0D0600" />
 &nbsp;
 <img src="https://img.shields.io/badge/CGPA-7.46_%40_JKLU-FF9500?style=flat-square&labelColor=0D0600" />
 
