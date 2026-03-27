@@ -303,59 +303,6 @@ kanishk.run();  //  → open to research · internships · collab
 
 ---
 
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  GITHUB STATS                                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h2>📊 &nbsp; GitHub Stats</h2>
-
-<br/>
- 
-<!-- GITHUB STATS CARD -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    alt="Kanishk's GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=knyshk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0600&title_color=FF9500&icon_color=FFD700&text_color=FFD580&ring_color=FF9500&line_height=27" 
-    width="48%"
-  />
-</a>
- 
-<!-- TOP LANGUAGES CARD -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=knyshk&layout=donut&langs_count=8&hide_border=true&bg_color=0D0600&title_color=FF9500&text_color=FFD580&hide_progress=false" 
-    width="48%"
-  />
-</a>
- 
-<br/><br/>
- 
-<!-- GITHUB STREAK STATS -->
-<img 
-  src="https://streak-stats.demolab.com?user=knyshk&hide_border=true&background=0D0600&stroke=FF9500&ring=FF9500&fire=FFD700&currStreakNum=ffffff&sideNums=FFD580&currStreakLabel=FF9500&sideLabels=FF9500&dates=8A6030" 
-  alt="GitHub Streak" 
-  width="100%"
-/>
- 
-<br/><br/>
- 
-<img src="https://img.shields.io/badge/CodeChef-1239_(1%E2%98%85)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hackathons-HackJKLU_%C2%B7_LNMHacks-FF9500?style=for-the-badge&labelColor=0D0600&logo=github&logoColor=white" />
- 
-</div>
- 
-<br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050100,100:FF9500&height=2" />
- 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  CONTRIBUTION GRAPH                                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
