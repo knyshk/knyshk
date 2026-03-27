@@ -52,9 +52,9 @@ const kanishk = {
     "B.Tech CS & AI  →  JK Lakshmipat University   (2023 → Present)",
     "Visiting Student →  IIT Jammu   (Jan – May 2025)  ·  DAA · Networks · PPL",
   ],
-  focus      : ["MERN Stack", "Generative AI", "LLMs", "Reinforcement Learning"],
+  focus      : ["Generative AI","MERN Stack", "LLMs", "Reinforcement Learning"],
   building   : ["RAG pipelines", "CV systems", "full-stack apps"],
-  scholarship: ["100% Merit — Year 1", "75% Merit — Year 2"],
+  scholarship: ["100% Scholarship — Year 1", "75% Scholarship — Year 2"],
   contact    : "kanishk.jain0510@gmail.com",
 };
 
@@ -77,8 +77,8 @@ kanishk.run();  //  → open to research · internships · collab
   <li>🏛️ &nbsp; <b>CS &amp; AI</b> undergrad at <b>JKLU</b> + exchange at <b>IIT Jammu</b></li>
   <li>🤖 &nbsp; Deep-diving into <b>LLMs, RAG, RL &amp; Generative AI</b></li>
   <li>🧑‍💻 &nbsp; Ex Full Stack Intern at <b>WebClan.in</b> — MERN end-to-end</li>
-  <li>🌐 &nbsp; Portfolio → <a href="https://knyshk.github.io/knyshk-portfolio"><b>knyshk-portfolio</b></a></li>
-  <li>📄 &nbsp; Resume → <a href="https://raw.githubusercontent.com/knyshk/knyshk/main/assets/resume.pdf"><b>View PDF</b></a></li>
+  <li>🌐 &nbsp; Portfolio → <a href="https://knyshk-portfolio.netlify.app/"><b>knyshk-portfolio</b></a></li>
+  <li>📄 &nbsp; Resume → <a href="https://raw.githubusercontent.com/knyshk/portfolio/src/assets/Kanishk_Jain___CV.pdf"><b>View PDF</b></a></li>
   <li>💬 &nbsp; Ask me about <b>React · Python · LangChain · OpenCV</b></li>
   <li>🌌 &nbsp; Astronomy nerd who codes at night ☕🔭</li>
   <li>📫 &nbsp; <b>kanishk.jain0510@gmail.com</b></li>
@@ -94,7 +94,7 @@ kanishk.run();  //  → open to research · internships · collab
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br/><br/>
-<a href="https://knyshk.github.io/knyshk-portfolio" target="_blank">
+<a href="https://knyshk-portfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF9500?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <br/><br/>
@@ -102,15 +102,11 @@ kanishk.run();  //  → open to research · internships · collab
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <br/><br/>
-<a href="https://instagram.com/kanishk_.04" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<br/><br/>
 <a href="mailto:kanishk.jain0510@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br/><br/>
-<a href="https://raw.githubusercontent.com/knyshk/knyshk/main/assets/resume.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/knyshk/portfolio/src/assets/Kanishk_Jain___CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0D0600?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF9500" />
 </a>
 
@@ -202,9 +198,9 @@ kanishk.run();  //  → open to research · internships · collab
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td width="50%" valign="top">
-      <h3>📰 Newscope — AI News Analyst</h3>
+      <a href="https://github.com/knyshk/newscope"><h3>📰 Newscope — AI News Analyst</h3>
       <img src="https://img.shields.io/badge/Type-RAG+Agent-FF9500?style=flat-square&labelColor=0D0600" />
-      <img src="https://img.shields.io/badge/LLM-Gemini+%2B+GPT-FFD700?style=flat-square&labelColor=0D0600" />
+      <img src="https://img.shields.io/badge/LLM-Gemini_%40_Chat_GPT-FFD700?style=flat-square&labelColor=0D0600" />
       <br/><br/>
       News analysis system combining RSS scraping, vector DB, and AI-based Q&A. RAG pipeline via LangChain with Gemini + GPT interoperability. Real-time contextual answers via Streamlit.
       <br/><br/>
@@ -213,8 +209,10 @@ kanishk.run();  //  → open to research · internships · collab
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/ChromaDB-FF9500?style=flat-square&labelColor=0D0600" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/knyshk/Callix-AI">
       <h3>🤖 Callix AI</h3>
       <img src="https://img.shields.io/badge/Type-AI+Assistant-FF9500?style=flat-square&labelColor=0D0600" />
       <img src="https://img.shields.io/badge/Stack-Full+Stack-FFD700?style=flat-square&labelColor=0D0600" />
@@ -224,10 +222,12 @@ kanishk.run();  //  → open to research · internships · collab
       <img src="https://skillicons.dev/icons?i=python,react,nodejs&theme=dark" height="26" />
       &nbsp;
       <img src="https://img.shields.io/badge/LLM-Powered-FFD700?style=flat-square&labelColor=0D0600" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/knyshk/Driver-Drowsiness-Detection-System">
       <h3>😴 Driver Drowsiness Detection</h3>
       <img src="https://img.shields.io/badge/Type-Computer+Vision-FF9500?style=flat-square&labelColor=0D0600" />
       <img src="https://img.shields.io/badge/Model-CNN-FFD700?style=flat-square&labelColor=0D0600" />
@@ -238,8 +238,10 @@ kanishk.run();  //  → open to research · internships · collab
       &nbsp;
       <img src="https://img.shields.io/badge/MediaPipe-FF9500?style=flat-square&labelColor=0D0600" />
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/knyshk/SVD-Based-Image-Steganography">
       <h3>🔐 SVD Image Steganography</h3>
       <img src="https://img.shields.io/badge/Type-Cryptography-FF9500?style=flat-square&labelColor=0D0600" />
       <img src="https://img.shields.io/badge/Math-Linear+Algebra-FFD700?style=flat-square&labelColor=0D0600" />
@@ -251,6 +253,7 @@ kanishk.run();  //  → open to research · internships · collab
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pillow-FFD700?style=flat-square&labelColor=0D0600" />
       <img src="https://img.shields.io/badge/Matplotlib-FF9500?style=flat-square&labelColor=0D0600" />
+      </a>
     </td>
   </tr>
 </table>
@@ -310,35 +313,47 @@ kanishk.run();  //  → open to research · internships · collab
 <h2>📊 &nbsp; GitHub Stats</h2>
 
 <br/>
-
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=knyshk&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D0600&title_color=FF9500&icon_color=FFD700&text_color=FFD580&ring_color=FF9500" width="400" alt="GitHub Stats" />
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knyshk&layout=donut&langs_count=8&theme=transparent&hide_border=true&bg_color=0D0600&title_color=FF9500&text_color=FFD580" width="290" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=knyshk&theme=transparent&hide_border=true&background=0D0600&stroke=FF9500&ring=FF9500&fire=FFD700&currStreakNum=ffffff&sideNums=FFD580&currStreakLabel=FF9500&sideLabels=FF9500&dates=8A6030" alt="GitHub Streak" />
-
+ 
+<!-- GITHUB STATS CARD -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+    alt="Kanishk's GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=knyshk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0600&title_color=FF9500&icon_color=FFD700&text_color=FFD580&ring_color=FF9500&line_height=27" 
+    width="48%"
+  />
+</a>
+ 
+<!-- TOP LANGUAGES CARD -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=knyshk&layout=donut&langs_count=8&hide_border=true&bg_color=0D0600&title_color=FF9500&text_color=FFD580&hide_progress=false" 
+    width="48%"
+  />
+</a>
+ 
 <br/><br/>
-
+ 
+<!-- GITHUB STREAK STATS -->
+<img 
+  src="https://streak-stats.demolab.com?user=knyshk&hide_border=true&background=0D0600&stroke=FF9500&ring=FF9500&fire=FFD700&currStreakNum=ffffff&sideNums=FFD580&currStreakLabel=FF9500&sideLabels=FF9500&dates=8A6030" 
+  alt="GitHub Streak" 
+  width="100%"
+/>
+ 
+<br/><br/>
+ 
 <img src="https://img.shields.io/badge/CodeChef-1239_(1%E2%98%85)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/Hackathons-HackJKLU_%C2%B7_LNMHacks-FF9500?style=for-the-badge&labelColor=0D0600&logo=github&logoColor=white" />
-
+ 
 </div>
-
+ 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050100,100:FF9500&height=2" />
-
+ 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -370,20 +385,23 @@ kanishk.run();  //  → open to research · internships · collab
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
+ 
 <h2>🗓 &nbsp; Contribution Heatmap</h2>
-
+ 
 <br/>
-
-<img src="https://ghchart.rshah.org/FF9500/knyshk" width="97%" alt="Contribution Heatmap" />
-
+ 
+<!-- Dynamic heatmap with auto-refresh -->
+<img 
+  src="https://ghchart.rshah.org/FF9500/knyshk" 
+  width="97%" 
+  alt="Contribution Heatmap"
+  style="image-rendering: auto;"
+/>
+ 
 </div>
-
+ 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9500,100:050100&height=2" />
-
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  PROFILE SUMMARY CARDS                                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
